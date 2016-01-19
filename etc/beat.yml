@@ -1,0 +1,5 @@
+modbeat:
+  paths:
+    -
+      glob: "/var/log/*"
+      period: 5s

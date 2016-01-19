@@ -1,0 +1,58 @@
+hash: 22d13a94b88603c915069532f9143e98270a444dbd3aad199374eaea6f784bfe
+updated: 2016-01-20T08:32:19.792178281+01:00
+imports:
+- name: github.com/andrewkroh/sys
+  version: 287798fe3e430efeb9318b95ff52353aaa2b59b1
+  subpackages:
+  - /windows/svc/eventlog
+- name: github.com/davecgh/go-spew
+  version: 2df174808ee097f90d259e432cc04442cf60be21
+  subpackages:
+  - /spew
+- name: github.com/elastic/beats
+  version: 18dce587eafaa5f479a15f685957437abc3cc453
+  subpackages:
+  - /libbeat/beat
+- name: github.com/elastic/gosigar
+  version: fab699fc11f688c8e9fe0b07c95edd6a86627627
+- name: github.com/garyburd/redigo
+  version: 836b6e58b3358112c8291565d01c35b8764070d7
+- name: github.com/go-ole/go-ole
+  version: 0e87ea779d9deb219633b828a023b32e1244dd57
+- name: github.com/joeshaw/multierror
+  version: 69b34d4ec901851247ae7e77d33909caf9df99ed
+- name: github.com/nranchev/go-libGeoIP
+  version: c78e8bd2dd3599feb21fd30886043979e82fe948
+- name: github.com/pmezard/go-difflib
+  version: d8ed2627bdf02c080bf22230dbb337003b7aba2d
+  subpackages:
+  - /difflib
+- name: github.com/samuel/go-parser
+  version: ca8abbf65d0e61dedf061f98bd3850f250e27539
+- name: github.com/samuel/go-thrift
+  version: 2187045faa54fce7f5028706ffeb2f2fc342aa7e
+- name: github.com/satori/go.uuid
+  version: d41af8bb6a7704f00bc3b7cba9355ae6a5a80048
+- name: github.com/StackExchange/wmi
+  version: ""
+- name: github.com/stretchr/objx
+  version: cbeaeb16a013161a98496fad62933b1d21786672
+- name: github.com/stretchr/testify
+  version: f390dcf405f7b83c997eac1b06768bb9f44dec18
+  subpackages:
+  - /assert
+- name: github.com/tsg/gopacket
+  version: f07b94e57b47f730771b6d1dec3a1e8c20999896
+- name: golang.org/x/sys
+  version: 442cd600860ce722f6615730eb008a37a87b13ee
+  subpackages:
+  - /windows/svc
+- name: golang.org/x/text
+  version: ""
+  subpackages:
+  - /encoding
+- name: gopkg.in/yaml.v2
+  version: f7716cbe52baa25d2e9b0d0da546fcf909fc16b4
+- name: labix.org/v2/mgo
+  version: ""
+devImports: []

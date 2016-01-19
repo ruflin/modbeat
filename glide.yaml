@@ -1,0 +1,5 @@
+package: github.com/ruflin/modbeat
+import:
+- package: github.com/elastic/beats
+  subpackages:
+  - /libbeat/beat
