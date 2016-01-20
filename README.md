@@ -28,7 +28,13 @@ An example JSON document stored in elasticsearch looks as following:
 
 # Goal
 
-The goal of Modbeat is to provide a basic example for a beat. But it is not only about providing a basic example but also providing a foundation for maintaining and updating a beat, building up a community around the beat and having a stable structure.
+Modbeat has the following goals:
+
+* Basic beat example
+* Foundation for maintaining and updating beat
+* Structure to create and maintain community around the beat
+* Ensure quality of the beat (testing, structure)
+* Foundation for good beat docs
 
 
 # TODO
